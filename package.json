@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy":"https://uploadproject-env.eba-pezpkcpz.us-east-2.elasticbeanstalk.com/api/upload"
+  "proxy":"https://uploadproject-env.eba-pezpkcpz.us-east-2.elasticbeanstalk.com/"
 }
