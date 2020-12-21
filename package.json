@@ -36,6 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy":"http://uploadproject-env.eba-pezpkcpz.us-east-2.elasticbeanstalk.com/"
+  }
 }
