@@ -44,7 +44,7 @@ loadigShowMmsg()
        <div>
        <input type='file' onChange={this.fileSelectHandler}/>
        <button color="danger"  onClick={this.fileUploadHandler}>Submit</button>
-       <p>{this.loadigShowMmsg()}</p>
+       <h1>{this.loadigShowMmsg()}</h1>
        </div>
      );
    }
