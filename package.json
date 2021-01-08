@@ -36,5 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy":"amlproductioncodeev1-env.eba-mhxiq94p.us-east-2.elasticbeanstalk.com/"
 }
